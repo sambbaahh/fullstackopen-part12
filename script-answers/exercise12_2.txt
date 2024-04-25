@@ -1,0 +1,136 @@
+Script started on 2024-04-25 10:33:41+03:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="101" LINES="24"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004h]0;samik@samik: /mnt/c/Users/samik/Documents/ohjelmointi/fullstackopen-part12[01;32msamik@samik[00m:[01;34m/mnt/c/Users/samik/Documents/ohjelmointi/fullstackopen-part12[00m$ [7mdocker run -it ubuntu[27m[7m [27m[7mbash[27m[A
+]0;samik@samik: /mnt/c/Users/samik/Documents/ohjelmointi/fullstackopen-part12[01;32msamik@samik[00m:[01;34m/mnt/c/Users/samik/Documents/ohjelmointi/fullstackopen-part12[00m$ docker run -it ubuntu bash
+[?2004l
+Unable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+
+[1A[2K
+3c645031de29: Pulling fs layer 
+[1B[1A[2K
+3c645031de29: Downloading  310.6kB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  1.556MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  2.796MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  4.025MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  5.266MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  6.507MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  7.752MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  8.989MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  10.22MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  11.47MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  12.69MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  13.92MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  15.15MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  16.39MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  17.63MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  18.87MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  20.11MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  21.35MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading   22.6MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  23.83MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  25.08MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  26.63MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  27.87MB/29.53MB
+[1B[1A[2K
+3c645031de29: Downloading  29.11MB/29.53MB
+[1B[1A[2K
+3c645031de29: Verifying Checksum 
+[1B[1A[2K
+3c645031de29: Download complete 
+[1B[1A[2K
+3c645031de29: Extracting  327.7kB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  1.638MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  2.949MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  3.932MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  5.243MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  6.226MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  7.537MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  8.192MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  9.175MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  10.16MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting   11.8MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  14.75MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  16.38MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  19.01MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  20.64MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  21.95MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  23.59MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting   24.9MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  25.56MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  25.89MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  26.87MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  28.18MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  28.84MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  29.16MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  29.49MB/29.53MB
+[1B[1A[2K
+3c645031de29: Extracting  29.53MB/29.53MB
+[1B[1A[2K
+3c645031de29: Pull complete 
+[1BDigest: sha256:1b8d8ff4777f36f19bfe73ee4df61e3a0b789caeff29caa019539ec7c9a57f95
+Status: Downloaded newer image for ubuntu:latest
+[?2004h]0;root@3faecc9760cd: /root@3faecc9760cd:/# 
+[K]0;root@3faecc9760cd: /root@3faecc9760cd:/# 
+[K]0;root@3faecc9760cd: /root@3faecc9760cd:/# mkdir [7m/usr/src/app[27m/usr/src/app
+[?2004l
+[?2004h]0;root@3faecc9760cd: /root@3faecc9760cd:/# 
+[K]0;root@3faecc9760cd: /root@3faecc9760cd:/# 
+[K]0;root@3faecc9760cd: /root@3faecc9760cd:/# touch [7m/usr/src/app/index.js[27m/usr/src/app/index.js
+[?2004l
+[?2004h]0;root@3faecc9760cd: /root@3faecc9760cd:/# [Kexit
+[?2004l
+exit
+[?2004h]0;samik@samik: /mnt/c/Users/samik/Documents/ohjelmointi/fullstackopen-part12[01;32msamik@samik[00m:[01;34m/mnt/c/Users/samik/Documents/ohjelmointi/fullstackopen-part12[00m$ exit
+[?2004l
+exit
+
+Script done on 2024-04-25 10:36:29+03:00 [COMMAND_EXIT_CODE="0"]

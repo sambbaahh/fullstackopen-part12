@@ -1,0 +1,35 @@
+Script started on 2024-04-25 10:59:39+03:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="98" LINES="14"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004h]0;samik@samik: /mnt/c/Users/samik/Documents/ohjelmointi/fullstackopen-part12[01;32msamik@samik[00m:[01;34m/mnt/c/Users/samik/Documents/ohjelmointi/fullstackopen-part12[00m$ exitdocker run -it ubuntu bash[Asamiksamik
+]0;samik@samik: /mnt/c/Users/samik/Documents/ohjelmointi/fullstackopen-part12[01;32msamik@samik[00m:[01;34m/mnt/c/Users/samik/Documents/ohjelmointi/fullstackopen-part12[00m$ exit[Ksamiksamik
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdocker run -it ubuntu bash[A
+]0;samik@samik: /mnt/c/Users/samik/Documents/ohjelmointi/fullstackopen-part12[01;32msamik@samik[00m:[01;34m/mnt/c/Users/samik/Documents/ohjelmointi/fullstackopen-part12[00m$ exit[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kexitdocker run -it ubuntu bash[K[K[K[K[K[K[K
+[K[A[C[C[C[C[C[C[C[C[C[C[samik[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csamik[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[Kdys[K[K[Kstart -i ki 
+nd_herschel
+[?2004l
+[?2004h]0;root@3faecc9760cd: /root@3faecc9760cd:/# 
+[K]0;root@3faecc9760cd: /root@3faecc9760cd:/# nano /usr/src/app/index.js
+[?2004l
+[?2004h[?1049h[22;0;0t[1;14r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[12;43H(B[0;7m[ Reading... ](B[m[12;42H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 6.2 [26b/usr/src/app/index.js [34b [1;97H(B[m
+[13d(B[0;7m^G(B[m Help[13;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[13;65H(B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location
+[14d(B[0;7m^X(B[m Exit[14;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste[14;65H(B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line
+[2d[?12l[?25h[?25l[1;64H(B[0;7m*[97G(B[m[?12l[?25h
+[2dc[?25l[?12l[?25ho[?25l[?12l[?25hn[?25l[?12l[?25hs[?25l[?12l[?25ho[?25l[?12l[?25hl[?25l[?12l[?25he[?25l[?12l[?25h.[?25l[?12l[?25hl[?25l[?12l[?25ho[?25l[?12l[?25hg[?25l[?12l[?25h([?25l[?12l[?25h'[?25l[?12l[?25hh[?25l[?12l[?25h [?25l[?12l[?25hH[?25l[?12l[?25he[?25l[?12l[?25hl[?25l[?12l[?25hl[?25l
+[12d[K[?12l[?25h[2;18Ho[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h W[?25l[?12l[?25ho[?25l[?12l[?25hr[?25l[?12l[?25hl[?25l[?12l[?25hd[?25l[?12l[?25h[2;13H(B[0;1m[35m'Hello World'[39m(B[m[?25l[?12l[?25h)[?25l[13;17H [7b(B[0;7mM-D(B[m DOS Format [9b(B[0;7mM-A(B[m Append[65G [7b(B[0;7mM-B(B[m Backup File[K[14;2H(B[0;7mC(B[m Cancel[17G [7b(B[0;7mM-M(B[m Mac Format    [49G(B[0;7mM-P(B[m Prepend [12b(B[0;7m^T(B[m Browse[K
+[12d(B[0;7mFile Name to Write: /usr/src/app/index.js [55b [12;42H(B[m[?12l[?25h[?25l[1K (B[0;7m[ Writing... ](B[m[K[1;64H(B[0;7m [97G(B[m[12;42H(B[0;7m[ Wrote 1 line ](B[m[13;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut    [65G(B[0;7m^T(B[m Execute      (B[0;7m^C(B[m Location[14;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste [7b(B[0;7m^J(B[m Justify      (B[0;7m^/(B[m Go To Line[?12l[?25h[2;27H[?25l
+[12d[J[14d[?12l[?25h[14;1H[?1049l[23;0;0t
+[?1l>[?2004l[?2004h]0;root@3faecc9760cd: /root@3faecc9760cd:/# [Knano /usr/src/app/index.js[Kexit
+[?2004l
+exit
+[?2004h]0;samik@samik: /mnt/c/Users/samik/Documents/ohjelmointi/fullstackopen-part12[01;32msamik@samik[00m:[01;34m/mnt/c/Users/samik/Documents/ohjelmointi/fullstackopen-part12[00m$ exit
+[?2004l
+exit
+
+Script done on 2024-04-25 11:01:32+03:00 [COMMAND_EXIT_CODE="0"]
