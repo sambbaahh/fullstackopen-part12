@@ -12,6 +12,9 @@ services:
     ports:
       - 5173:5173
     container_name: todo-frontend-dev
+    
+  debug-helper:
+    image: busybox
 
 volumes:
   node_modules:
