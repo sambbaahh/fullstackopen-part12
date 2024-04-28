@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  server:
+    image: bloglist-backend
+    build:
+      context: ./backend/
+      dockerfile: Dockerfile
+    volumes:
+      -  node_modules_server:/usr/src/app/node_modules
+    container_name: bloglist-backend
+
+  app:
+    image: bloglist-frontend
+    build:
+      context: ./frontend/
+      dockerfile: Dockerfile
+    volumes:
+      - node_modules_app:/usr/src/app/node_modules
+    container_name: bloglist-frontend
+
+  nginx:
+    image: nginx:1.20.1
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - 8080:80
+    container_name: reverse-proxy
+    depends_on:      
+      - app
+      - server
+
+volumes:
+  node_modules_server:
+  node_modules_app:
